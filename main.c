@@ -1,20 +1,13 @@
 pseudo code
 {
-Initial Function()
-{
-  //Sample Code
+Initial Function(){
 }
-function 1()
-{
-
-}
-
 Initial Function2()
 {
  //Sample Code
 }
-
+initial function 3(){
 function 2(){
 }
-
+}
 }
