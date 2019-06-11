@@ -14,6 +14,7 @@ Initial Function2()
  //Sample Code
 }
 
-
+function 2(){
+}
 
 }
