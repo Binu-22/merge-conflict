@@ -11,10 +11,16 @@ function 2(){
 }
 }
 }
+
 feature1()
 {
 //feature 1 added
 }
 
 security patc(){}
+
+feature2()
+{
+//feature2 added
+}
 
