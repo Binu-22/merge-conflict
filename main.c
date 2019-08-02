@@ -11,3 +11,5 @@ function 2(){
 }
 }
 }
+
+security patc(){}
