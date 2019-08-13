@@ -14,6 +14,9 @@ function 2(){
 feature1()
 {
 //feature1 added
+feature2()
+{
+//feature2 added
 }
 
 security patch()
