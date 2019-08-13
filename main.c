@@ -14,4 +14,10 @@ feature2()
 {
 //feature2 added
 }
+
+security patch()
+{
+//security patch added 
+}
+
 }
