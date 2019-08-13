@@ -10,4 +10,8 @@ initial function 3(){
 function 2(){
 }
 }
+feature2()
+{
+//feature2 added
+}
 }
