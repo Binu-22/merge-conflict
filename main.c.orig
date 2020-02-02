@@ -2,14 +2,14 @@ pseudo code
 {
 Initial Function(){
 }
-
+<<<<<<< HEAD
 
 Feature1()
 {
 }
-
+=======
 security patch(){}
 
-
+>>>>>>> master
 
 }
